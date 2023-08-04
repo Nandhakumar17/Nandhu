@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(133, 231, 166);
+    color: rgb(48, 29, 221);
+    
+}
+
+div {
+    background-color: bisque;
+    color: red;
+    padding: 1rem;
+}
+
+h1,h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-left: 200px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+li:hover {
+    color: black;
+    width: 20%;
+}
